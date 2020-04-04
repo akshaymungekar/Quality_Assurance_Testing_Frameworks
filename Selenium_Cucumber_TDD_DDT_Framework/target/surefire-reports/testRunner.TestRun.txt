@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRun
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 137.599 sec <<< FAILURE!
+Successful Login with Valid Credentials(Login)  Time elapsed: 9.784 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.Steps.page_Title_after_login_should_be(Steps.java:46)
+	at ✽.Page Title after login should be "Dashboard / nopCommerce administration"(file:///D:/Education/IntelliJ_Projects/Cucumber_Project_2/Features/Login.feature:18)
+

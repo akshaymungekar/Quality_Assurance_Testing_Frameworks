@@ -1,0 +1,51 @@
+2020-04-04 15:02:31,528  INFO [main] Cucumber_Project_2:55 - ***************Launching browser****************
+2020-04-04 15:02:31,559  INFO [main] Cucumber_Project_2:67 - ***************Opening URL****************
+2020-04-04 15:02:36,897  INFO [main] Cucumber_Project_2:75 - ***************Providing login details****************
+2020-04-04 15:02:37,225  INFO [main] Cucumber_Project_2:83 - ***************Started login****************
+2020-04-04 15:02:58,544  INFO [main] Cucumber_Project_2:161 - ***************Adding new customer****************
+2020-04-04 15:02:58,545  INFO [main] Cucumber_Project_2:162 - ***************Providing customer details****************
+2020-04-04 15:03:12,165  INFO [main] Cucumber_Project_2:184 - ***************Saving customer data****************
+2020-04-04 15:03:16,071  INFO [main] Cucumber_Project_2:122 - ***************Closing browser****************
+2020-04-04 15:03:27,283  INFO [main] Cucumber_Project_2:55 - ***************Launching browser****************
+2020-04-04 15:03:27,283  INFO [main] Cucumber_Project_2:67 - ***************Opening URL****************
+2020-04-04 15:03:32,548  INFO [main] Cucumber_Project_2:75 - ***************Providing login details****************
+2020-04-04 15:03:32,786  INFO [main] Cucumber_Project_2:83 - ***************Started login****************
+2020-04-04 15:03:51,733  INFO [main] Cucumber_Project_2:199 - ***************Searching a customer by Email id****************
+2020-04-04 15:03:55,381  INFO [main] Cucumber_Project_2:122 - ***************Closing browser****************
+2020-04-04 15:04:06,661  INFO [main] Cucumber_Project_2:55 - ***************Launching browser****************
+2020-04-04 15:04:06,664  INFO [main] Cucumber_Project_2:67 - ***************Opening URL****************
+2020-04-04 15:04:12,052  INFO [main] Cucumber_Project_2:75 - ***************Providing login details****************
+2020-04-04 15:04:12,477  INFO [main] Cucumber_Project_2:83 - ***************Started login****************
+2020-04-04 15:04:29,856  INFO [main] Cucumber_Project_2:222 - ***************Searching a customer by Name****************
+2020-04-04 15:04:33,504  INFO [main] Cucumber_Project_2:122 - ***************Closing browser****************
+2020-04-04 15:04:44,611  INFO [main] Cucumber_Project_2:55 - ***************Launching browser****************
+2020-04-04 15:04:44,613  INFO [main] Cucumber_Project_2:67 - ***************Opening URL****************
+2020-04-04 15:04:49,305  INFO [main] Cucumber_Project_2:75 - ***************Providing login details****************
+2020-04-04 15:04:49,548  INFO [main] Cucumber_Project_2:83 - ***************Started login****************
+2020-04-04 15:04:55,669  INFO [main] Cucumber_Project_2:95 - ***************Login passed****************
+2020-04-04 15:04:55,676  INFO [main] Cucumber_Project_2:103 - ***************Opening URL****************
+2020-04-04 15:05:04,930  INFO [main] Cucumber_Project_2:122 - ***************Closing browser****************
+2020-04-04 15:05:15,958  INFO [main] Cucumber_Project_2:55 - ***************Launching browser****************
+2020-04-04 15:05:15,960  INFO [main] Cucumber_Project_2:67 - ***************Opening URL****************
+2020-04-04 15:05:21,571  INFO [main] Cucumber_Project_2:75 - ***************Providing login details****************
+2020-04-04 15:05:21,855  INFO [main] Cucumber_Project_2:83 - ***************Started login****************
+2020-04-04 15:05:28,786  INFO [main] Cucumber_Project_2:95 - ***************Login passed****************
+2020-04-04 15:05:28,794  INFO [main] Cucumber_Project_2:103 - ***************Opening URL****************
+2020-04-04 15:05:32,963  INFO [main] Cucumber_Project_2:122 - ***************Closing browser****************
+2020-04-04 15:05:43,963  INFO [main] Cucumber_Project_2:55 - ***************Launching browser****************
+2020-04-04 15:05:43,966  INFO [main] Cucumber_Project_2:67 - ***************Opening URL****************
+2020-04-04 15:05:49,271  INFO [main] Cucumber_Project_2:75 - ***************Providing login details****************
+2020-04-04 15:05:49,511  INFO [main] Cucumber_Project_2:83 - ***************Started login****************
+2020-04-04 15:05:53,586  INFO [main] Cucumber_Project_2:92 - ***************Login failed****************
+2020-04-04 15:15:07,815  INFO [main] Cucumber_Project_2:60 - ***************Launching browser****************
+2020-04-04 15:15:07,848  INFO [main] Cucumber_Project_2:66 - ***************Opening URL****************
+2020-04-04 15:15:13,250  INFO [main] Cucumber_Project_2:74 - ***************Providing login details****************
+2020-04-04 15:15:13,535  INFO [main] Cucumber_Project_2:82 - ***************Started login****************
+2020-04-04 15:15:33,849  INFO [main] Cucumber_Project_2:160 - ***************Adding new customer****************
+2020-04-04 15:15:33,850  INFO [main] Cucumber_Project_2:161 - ***************Providing customer details****************
+2020-04-04 15:15:47,572  INFO [main] Cucumber_Project_2:183 - ***************Saving customer data****************
+2020-04-04 15:15:51,765  INFO [main] Cucumber_Project_2:121 - ***************Closing browser****************
+2020-04-04 15:16:03,586  INFO [main] Cucumber_Project_2:60 - ***************Launching browser****************
+2020-04-04 15:16:03,590  INFO [main] Cucumber_Project_2:66 - ***************Opening URL****************
+2020-04-04 15:16:08,905  INFO [main] Cucumber_Project_2:74 - ***************Providing login details****************
+2020-04-04 15:16:09,152  INFO [main] Cucumber_Project_2:82 - ***************Started login****************
