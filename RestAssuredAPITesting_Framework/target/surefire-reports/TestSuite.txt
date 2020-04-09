@@ -1,0 +1,58 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 34, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 29.005 sec <<< FAILURE! - in TestSuite
+checkContentLenght(com.employeeapi.testCases.TC002_Get_Single_Employee_Record)  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.NumberFormatException: null
+	at java.base/java.lang.Integer.parseInt(Integer.java:620)
+	at java.base/java.lang.Integer.parseInt(Integer.java:776)
+	at com.employeeapi.testCases.TC002_Get_Single_Employee_Record.checkContentLenght(TC002_Get_Single_Employee_Record.java:79)
+
+checkcontentEncoding(com.employeeapi.testCases.TC003_Post_Employee_Record)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: expected [gzip] but found [null]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.failNotEquals(Assert.java:969)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.employeeapi.testCases.TC003_Post_Employee_Record.checkcontentEncoding(TC003_Post_Employee_Record.java:94)
+
+checkResposeBody(com.employeeapi.testCases.TC004_Put_Employee_Record)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:751)
+	at org.testng.Assert.assertEquals(Assert.java:761)
+	at com.employeeapi.testCases.TC004_Put_Employee_Record.checkResposeBody(TC004_Put_Employee_Record.java:56)
+
+checkcontentEncoding(com.employeeapi.testCases.TC004_Put_Employee_Record)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: expected [gzip] but found [null]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.failNotEquals(Assert.java:969)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.employeeapi.testCases.TC004_Put_Employee_Record.checkcontentEncoding(TC004_Put_Employee_Record.java:94)
+
+checkResposeBody(com.employeeapi.testCases.TC005_Delete_Employee_Record)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:751)
+	at org.testng.Assert.assertEquals(Assert.java:761)
+	at com.employeeapi.testCases.TC005_Delete_Employee_Record.checkResposeBody(TC005_Delete_Employee_Record.java:44)
+
+checkcontentEncoding(com.employeeapi.testCases.TC005_Delete_Employee_Record)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: expected [gzip] but found [null]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.failNotEquals(Assert.java:969)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.employeeapi.testCases.TC005_Delete_Employee_Record.checkcontentEncoding(TC005_Delete_Employee_Record.java:81)
+
